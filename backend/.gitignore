@@ -68,7 +68,5 @@ node_modules/
 # dataconnect generated files
 .dataconnect
 
-node_modules/
-.env
-.env.local
-.env*
+.next/
+dist/
