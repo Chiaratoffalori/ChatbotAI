@@ -5,3 +5,5 @@ dist/
 .env
 backend/serviceAccountKey.json
 backend/serviceAccountKey.json
+
+.DS_Store
