@@ -6,4 +6,5 @@ dist/
 backend/serviceAccountKey.json
 backend/serviceAccountKey.json
 
-.DS_Store
+.DS_Store.DS_Store
+**/.DS_Store
