@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+firebase-admin
+python-dotenv
+llama-index
+requests
+openai
+pypdf
+pymongo
+pandas
