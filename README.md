@@ -52,7 +52,7 @@ export GOOGLE_APPLICATION_CREDENTIALS="path/al/tuo/serviceAccountKey.json"
 setx OPENAI_API_KEY "la_tua_chiave_openai"
 setx ADZUNA_API_KEY "la_tua_chiave_adzuna"
 setx GOOGLE_APPLICATION_CREDENTIALS "path\al\tuo\serviceAccountKey.json"
-'''
+```
 
 ---
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -61,6 +61,5 @@ setx GOOGLE_APPLICATION_CREDENTIALS "path\al\tuo\serviceAccountKey.json"
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-RAG-blueviolet?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-generic-blueviolet?style=for-the-badge)
+![OpenAI GPT](https://img.shields.io/badge/OpenAI-GPT-generic-412991?style=for-the-badge)
