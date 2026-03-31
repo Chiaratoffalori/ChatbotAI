@@ -61,5 +61,5 @@ setx GOOGLE_APPLICATION_CREDENTIALS "path\al\tuo\serviceAccountKey.json"
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-generic-blueviolet?style=for-the-badge)
-![OpenAI GPT](https://img.shields.io/badge/OpenAI-GPT-generic-412991?style=for-the-badge)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-LLAMA-7D3C98?style=for-the-badge&logo=data&logoColor=white)
+![OpenAI GPT](https://img.shields.io/badge/OpenAI-GPT-412991?style=for-the-badge&logo=openai&logoColor=white)
